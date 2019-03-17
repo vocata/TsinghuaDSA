@@ -1,0 +1,8 @@
+# directory
+source/
+
+# temp
+*.out
+
+# test
+test.cpp
