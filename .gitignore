@@ -1,5 +1,6 @@
 # directory
 source/
+.vscode
 
 # temp
 *.out
