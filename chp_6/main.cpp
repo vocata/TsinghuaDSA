@@ -1,5 +1,5 @@
-#include <iostream>
 #include "graphmatrix.h"
+#include <iostream>
 
 using namespace std;
 
